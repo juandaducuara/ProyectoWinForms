@@ -22,5 +22,11 @@ namespace ProyectoWinForms
             frmProductos frmProductos = new frmProductos();
             frmProductos.ShowDialog();
         }
+
+        private void facturaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmFactura factura = new frmFactura();
+            factura.ShowDialog();
+        }
     }
 }

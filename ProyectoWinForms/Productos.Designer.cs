@@ -94,7 +94,7 @@
             this.groupBox1.Controls.Add(this.menuStrip1);
             this.groupBox1.Location = new System.Drawing.Point(21, 72);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(744, 363);
+            this.groupBox1.Size = new System.Drawing.Size(732, 361);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             // 
@@ -108,7 +108,7 @@
             this.eliminarProductoToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(3, 16);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(738, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(726, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -257,7 +257,7 @@
             this.pnlModificarProducto.Controls.Add(this.btnConsultarMod);
             this.pnlModificarProducto.Controls.Add(this.cBModificar);
             this.pnlModificarProducto.Controls.Add(this.label6);
-            this.pnlModificarProducto.Location = new System.Drawing.Point(21, 118);
+            this.pnlModificarProducto.Location = new System.Drawing.Point(18, 118);
             this.pnlModificarProducto.Name = "pnlModificarProducto";
             this.pnlModificarProducto.Size = new System.Drawing.Size(732, 314);
             this.pnlModificarProducto.TabIndex = 11;
@@ -441,7 +441,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 472);
+            this.ClientSize = new System.Drawing.Size(800, 459);
             this.Controls.Add(this.pnlModificarProducto);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.groupBox1);
